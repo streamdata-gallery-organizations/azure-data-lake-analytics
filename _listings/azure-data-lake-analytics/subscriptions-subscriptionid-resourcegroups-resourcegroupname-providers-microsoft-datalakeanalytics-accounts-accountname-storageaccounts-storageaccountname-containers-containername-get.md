@@ -40,7 +40,7 @@ paths:
         200:
           description: OK
       tags:
-      - stage account stage container
+      - containers
 definitions:
   StorageAccountProperties:
     properties:
