@@ -22,7 +22,7 @@ paths:
         the firewall rule with the specified name will be replaced with this new firewall
         rule.
       operationId: FirewallRules_CreateOrUpdate
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-put
       parameters:
       - in: path
         name: accountName
@@ -51,7 +51,7 @@ paths:
       summary: Firewall Rules Update
       description: Updates the specified firewall rule.
       operationId: FirewallRules_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-patch
       parameters:
       - in: path
         name: accountName
@@ -81,7 +81,7 @@ paths:
       description: Deletes the specified firewall rule from the specified Data Lake
         Analytics account
       operationId: FirewallRules_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-delete
       parameters:
       - in: path
         name: accountName
@@ -105,7 +105,7 @@ paths:
       summary: Firewall Rules Get
       description: Gets the specified Data Lake Analytics firewall rule.
       operationId: FirewallRules_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-get
       parameters:
       - in: path
         name: accountName
@@ -131,7 +131,7 @@ paths:
       description: Lists the Data Lake Analytics firewall rules within the specified
         Data Lake Analytics account.
       operationId: FirewallRules_ListByAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrules-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrules-get
       parameters:
       - in: path
         name: accountName
@@ -154,7 +154,7 @@ paths:
       description: Gets the specified Azure Storage account linked to the given Data
         Lake Analytics account.
       operationId: StorageAccounts_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-get
       parameters:
       - in: path
         name: accountName
@@ -180,7 +180,7 @@ paths:
       description: Updates the specified Data Lake Analytics account to remove an
         Azure Storage account.
       operationId: StorageAccounts_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-delete
       parameters:
       - in: path
         name: accountName
@@ -205,7 +205,7 @@ paths:
       description: Updates the Data Lake Analytics account to replace Azure Storage
         blob account details, such as the access key and/or suffix.
       operationId: StorageAccounts_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-patch
       parameters:
       - in: path
         name: accountName
@@ -236,7 +236,7 @@ paths:
       description: Updates the specified Data Lake Analytics account to add an Azure
         Storage account.
       operationId: StorageAccounts_Add
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-put
       parameters:
       - in: path
         name: accountName
@@ -268,7 +268,7 @@ paths:
       description: Gets the specified Azure Storage container associated with the
         given Data Lake Analytics and Azure Storage accounts.
       operationId: StorageAccounts_GetStorageContainer
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get
       parameters:
       - in: path
         name: accountName
@@ -299,7 +299,7 @@ paths:
         specified Data Lake Analytics and Azure Storage account combination. The response
         includes a link to the next page of results, if any.
       operationId: StorageAccounts_ListStorageContainers
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get
       parameters:
       - in: path
         name: accountName
@@ -326,7 +326,7 @@ paths:
       description: Gets the SAS token associated with the specified Data Lake Analytics
         and Azure Storage account and container combination.
       operationId: StorageAccounts_ListSasTokens
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainernamelistsastokens-post
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainernamelistsastokens-post
       parameters:
       - in: path
         name: accountName
@@ -357,7 +357,7 @@ paths:
       description: Gets the specified Data Lake Store account details in the specified
         Data Lake Analytics account.
       operationId: DataLakeStoreAccounts_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get
       parameters:
       - in: path
         name: accountName
@@ -382,7 +382,7 @@ paths:
       description: Updates the Data Lake Analytics account specified to remove the
         specified Data Lake Store account.
       operationId: DataLakeStoreAccounts_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete
       parameters:
       - in: path
         name: accountName
@@ -407,7 +407,7 @@ paths:
       description: Updates the specified Data Lake Analytics account to include the
         additional Data Lake Store account.
       operationId: DataLakeStoreAccounts_Add
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-put
       parameters:
       - in: path
         name: accountName
@@ -439,7 +439,7 @@ paths:
         the specified Data Lake Analytics account. The response includes a link to
         the next page, if any.
       operationId: StorageAccounts_ListByAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccounts-get
       parameters:
       - in: query
         name: $count
@@ -482,7 +482,7 @@ paths:
         Data Lake Analytics account. The response includes a link to the next page,
         if any.
       operationId: DataLakeStoreAccounts_ListByAccount
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get
       parameters:
       - in: query
         name: $count
@@ -524,7 +524,7 @@ paths:
       description: Gets the first page of Data Lake Analytics accounts, if any, within
         a specific resource group. This includes a link to the next page, if any.
       operationId: Account_ListByResourceGroup
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccounts-get
       parameters:
       - in: query
         name: $count
@@ -562,7 +562,7 @@ paths:
       description: Gets the first page of Data Lake Analytics accounts, if any, within
         the current subscription. This includes a link to the next page, if any.
       operationId: Account_List
-      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoftdatalakeanalyticsaccounts-get
+      x-api-path-slug: subscriptionssubscriptionidprovidersmicrosoft-datalakeanalyticsaccounts-get
       parameters:
       - in: query
         name: $count
@@ -595,7 +595,7 @@ paths:
       summary: Account Get
       description: Gets details of the specified Data Lake Analytics account.
       operationId: Account_Get
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-get
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-get
       parameters:
       - in: path
         name: accountName
@@ -616,7 +616,7 @@ paths:
       description: Begins the delete delete process for the Data Lake Analytics account
         object specified by the account name.
       operationId: Account_Delete
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-delete
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-delete
       parameters:
       - in: path
         name: accountName
@@ -637,7 +637,7 @@ paths:
       description: Creates the specified Data Lake Analytics account. This supplies
         the user with computation services for Data Lake Analytics workloads
       operationId: Account_Create
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-put
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-put
       parameters:
       - in: path
         name: accountName
@@ -664,7 +664,7 @@ paths:
       description: Updates the Data Lake Analytics account object specified by the
         accountName with the contents of the account object.
       operationId: Account_Update
-      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-patch
+      x-api-path-slug: subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-patch
       parameters:
       - in: path
         name: accountName

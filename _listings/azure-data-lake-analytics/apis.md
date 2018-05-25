@@ -17,8 +17,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: ""
 tags: Azure Data Lake Analytics
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/apis.md
 specificationVersion: "0.14"
 apis:
@@ -33,7 +33,7 @@ apis:
   tags: Firewall Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-put-openapi.md
 - name: Azure Data Lake Analytics API Firewall Rules Update
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the specified firewall rule.
@@ -43,7 +43,7 @@ apis:
   tags: Firewall Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-patch-openapi.md
 - name: Azure Data Lake Analytics API Firewall Rules Delete
   x-api-slug: azure-data-lake-analytics-api
   description: Deletes the specified firewall rule from the specified Data Lake Analytics
@@ -54,7 +54,7 @@ apis:
   tags: Firewall Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-delete-openapi.md
 - name: Azure Data Lake Analytics API Firewall Rules Get
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the specified Data Lake Analytics firewall rule.
@@ -64,7 +64,7 @@ apis:
   tags: Firewall Rule
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrulesfirewallrulename-get-openapi.md
 - name: Azure Data Lake Analytics API Firewall Rules List By Account
   x-api-slug: azure-data-lake-analytics-api
   description: Lists the Data Lake Analytics firewall rules within the specified Data
@@ -75,7 +75,7 @@ apis:
   tags: Firewall Rule Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamefirewallrules-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamefirewallrules-get-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts Get
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the specified Azure Storage account linked to the given Data Lake
@@ -86,7 +86,7 @@ apis:
   tags: Stage Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-get-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts Delete
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the specified Data Lake Analytics account to remove an Azure
@@ -97,7 +97,7 @@ apis:
   tags: Stage Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-delete-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts Update
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the Data Lake Analytics account to replace Azure Storage blob
@@ -108,7 +108,7 @@ apis:
   tags: Stage Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-patch-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts Add
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the specified Data Lake Analytics account to add an Azure Storage
@@ -119,7 +119,7 @@ apis:
   tags: Stage Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountname-put-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts Get Storage Container
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the specified Azure Storage container associated with the given
@@ -130,9 +130,9 @@ apis:
   tags: Containers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainername-get-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts List Storage Containers
   x-api-slug: azure-data-lake-analytics-api
   description: Lists the Azure Storage containers, if any, associated with the specified
@@ -144,9 +144,9 @@ apis:
   tags: Stage Account Stage Containers
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainers-get-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts List Sas Tokens
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the SAS token associated with the specified Data Lake Analytics
@@ -157,7 +157,7 @@ apis:
   tags: Stage Account Satokens
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainernamelistsastokens-post-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccountsstorageaccountnamecontainerscontainernamelistsastokens-post-openapi.md
 - name: Azure Data Lake Analytics API Data Lake Store Accounts Get
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the specified Data Lake Store account details in the specified
@@ -168,9 +168,9 @@ apis:
   tags: Data Lake Ste Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-get-openapi.md
 - name: Azure Data Lake Analytics API Data Lake Store Accounts Delete
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the Data Lake Analytics account specified to remove the specified
@@ -181,9 +181,9 @@ apis:
   tags: Data Lake Ste Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-delete-openapi.md
 - name: Azure Data Lake Analytics API Data Lake Store Accounts Add
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the specified Data Lake Analytics account to include the additional
@@ -194,7 +194,7 @@ apis:
   tags: Data Lake Ste Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccountsdatalakestoreaccountname-put-openapi.md
 - name: Azure Data Lake Analytics API Storage Accounts List By Account
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the first page of Azure Storage accounts, if any, linked to the
@@ -206,7 +206,7 @@ apis:
   tags: Stage Account Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamestorageaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamestorageaccounts-get-openapi.md
 - name: Azure Data Lake Analytics API Data Lake Store Accounts List By Account
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the first page of Data Lake Store accounts linked to the specified
@@ -218,9 +218,9 @@ apis:
   tags: Data Lake Ste Account Account
   properties:
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get-postman.md
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountnamedatalakestoreaccounts-get-openapi.md
 - name: Azure Data Lake Analytics API Account List By Resource Group
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the first page of Data Lake Analytics accounts, if any, within
@@ -231,7 +231,7 @@ apis:
   tags: Account  Resource Group
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccounts-get-openapi.md
 - name: Azure Data Lake Analytics API Account List
   x-api-slug: azure-data-lake-analytics-api
   description: Gets the first page of Data Lake Analytics accounts, if any, within
@@ -242,7 +242,7 @@ apis:
   tags: Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidprovidersmicrosoftdatalakeanalyticsaccounts-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidprovidersmicrosoft-datalakeanalyticsaccounts-get-openapi.md
 - name: Azure Data Lake Analytics API Account Get
   x-api-slug: azure-data-lake-analytics-api
   description: Gets details of the specified Data Lake Analytics account.
@@ -252,7 +252,7 @@ apis:
   tags: Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-get-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-get-openapi.md
 - name: Azure Data Lake Analytics API Account Delete
   x-api-slug: azure-data-lake-analytics-api
   description: Begins the delete delete process for the Data Lake Analytics account
@@ -263,7 +263,7 @@ apis:
   tags: Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-delete-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-delete-openapi.md
 - name: Azure Data Lake Analytics API Account Create
   x-api-slug: azure-data-lake-analytics-api
   description: Creates the specified Data Lake Analytics account. This supplies the
@@ -274,7 +274,7 @@ apis:
   tags: Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-put-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-put-openapi.md
 - name: Azure Data Lake Analytics API Account Update
   x-api-slug: azure-data-lake-analytics-api
   description: Updates the Data Lake Analytics account object specified by the accountName
@@ -285,7 +285,7 @@ apis:
   tags: Account
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoftdatalakeanalyticsaccountsaccountname-patch-openapi.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-organizations/azure-data-lake-analytics/master/_listings/azure-data-lake-analytics/subscriptionssubscriptionidresourcegroupsresourcegroupnameprovidersmicrosoft-datalakeanalyticsaccountsaccountname-patch-openapi.md
 - name: Azure Data Lake Analytics API Catalog Create Secret
   x-api-slug: azure-data-lake-analytics-api
   description: Creates the specified secret for use with external data sources in
