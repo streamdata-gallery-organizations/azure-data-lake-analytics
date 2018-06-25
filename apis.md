@@ -5,7 +5,7 @@ description: This is a repository of azure data lake analytics APIs, self-contai
   surrounding operations.
 image: http://template.streamdata.gallery/assets/azure-data-lake-analytics.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://azure-data-lake-analytics.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
